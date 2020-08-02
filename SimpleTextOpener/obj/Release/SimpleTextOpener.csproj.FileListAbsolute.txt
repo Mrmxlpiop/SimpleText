@@ -1,0 +1,12 @@
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\obj\Release\SimpleTextOpener.Form1.resources
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\obj\Release\SimpleTextOpener.csproj.GenerateResource.cache
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\obj\Release\SimpleTextOpener.csproj.CoreCompileInputs.cache
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\obj\Release\SimpleTextOpener.csprojAssemblyReference.cache
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\obj\Release\SimpleTextOpener.AboutBox1.resources
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\bin\Release\SimpleText.exe.config
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\bin\Release\SimpleText.exe
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\bin\Release\SimpleText.pdb
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\obj\Release\SimpleText.Form2.resources
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\obj\Release\SimpleText.Properties.Resources.resources
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\obj\Release\SimpleText.exe
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\obj\Release\SimpleText.pdb
