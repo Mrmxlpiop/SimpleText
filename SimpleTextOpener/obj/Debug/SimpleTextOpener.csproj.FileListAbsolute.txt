@@ -1,0 +1,10 @@
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\bin\Debug\SimpleTextOpener.exe.config
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\bin\Debug\SimpleTextOpener.exe
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\bin\Debug\SimpleTextOpener.pdb
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\obj\Debug\SimpleTextOpener.csprojAssemblyReference.cache
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\obj\Debug\SimpleTextOpener.Form1.resources
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\obj\Debug\SimpleTextOpener.Properties.Resources.resources
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\obj\Debug\SimpleTextOpener.csproj.GenerateResource.cache
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\obj\Debug\SimpleTextOpener.csproj.CoreCompileInputs.cache
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\obj\Debug\SimpleTextOpener.exe
+C:\Users\Mrmxlpiop\source\repos\SimpleTextOpener\SimpleTextOpener\obj\Debug\SimpleTextOpener.pdb
